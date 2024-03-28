@@ -1,0 +1,26 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "A web crawler for seeing the internal linking structure of a website",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jason-sj-lee/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jason-sj-lee/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/jason-sj-lee/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
